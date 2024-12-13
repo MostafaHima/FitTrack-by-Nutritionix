@@ -6,7 +6,7 @@
 
 - Log your exercise activities (e.g., running, walking, cycling).
 - Get real-time data on calories burned for each exercise session.
-- Automatically store your workout details in Google Sheets for future reference.
+- Automatically store your workout details in Google Sheets [Google Sheets](https://docs.google.com/spreadsheets/d/1sgMtN_eTBrI3EpKWpMb45qm8t9uXSs-zYmEtWRy6UNc/edit?gid=0#gid=0).
 - Display simple stats like exercise duration and calories burned.
 
 ## Technologies Used
